@@ -5,6 +5,7 @@
     "keywords": ["maxmind geoip"],
     "version": "1.0.0",
     "license": "BSD",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3"
     },
